@@ -79,4 +79,6 @@ Add the OpenOCD installation directory to the user PATH and restart the terminal
 
 ## License
 
-Educational use only.
+This project is licensed under the MIT License. Vendor-provided files retain their original licenses.
+
+
