@@ -1,4 +1,4 @@
-# Interrupt-Driven PWM Motor Control Using Bare-Metal GPIO on PSoC 4100S MCU
+# Interrupt-Driven PWM Motor Control Using Bare-Metal GPIO on PSoC 4100S+ MCU
 
 Interrupt-driven PWM motor control on a PSoC 4100S Plus using a bare-metal, register-level approach. TCPWM is configured for PWM generation, GPIO interrupts are used to toggle motor direction via an ISR, and all peripherals are initialized through direct register access.
 
